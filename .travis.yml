@@ -1,0 +1,16 @@
+language: node_js
+install:
+- yarn
+script:
+- yarn run lint
+- yarn run build
+deploy:
+  provider: s3
+  access_key_id: AKIAIGQB2WVJTMN5WXWQ
+  secret_access_key:
+    secure: FrPeCAADxPhqbnvm4vDB/NhaxDT74yq44zOiNnLmWyE1EoiNTwxrOl0yovzJp6IdafGKzrA7mNKzo1aBvhM9L8adyNbkold0O1C1h24FGDyBdRe/RYKc20S2tfUwssKiGrWfO1vY0EHDCcHk8qn1V4OTZZfU782Ve6+6i5xSE7oX+hcTC85B70S6OTzGe45opbppxV3IViWAfKqsV7p+5MYZMHrswWEXP/w0MSMF4Spb3mwuk1bNdVwnUiDswcLhhVe268O6zG4XA00BYU7bs1k9RMSXTXA1AIOxeoHefBgqH+btVPVk5a0oajtCIQyZA4wPkVogE1cfynVmbjzJ5O3Wu7zi+DNgk3BKBZEnJMN6zBN6jP2cSVPU8ngeZbX5crZs+cWQomqwlljNKETS7uhN3FNsxHoRrIwTkUI9Q+Wdzr5FO8ZxWycBVikdwP4Qb4f33PdnS2uMv7g9ip31J8EgkZm8TVzYSiKEH4aWq4k+Q9aYgyDMZW1ME0pXuIhM/hP7R8ix82EFNww+grVWXgBDfVX5LBYOUO2slJSR8fIkGDtAfa/SvLs4MzKRl7KCUs1A2WCqrPr/DudDrKV7fTQVsmvT6efk4KKjXhlBHYz0C3mxEQmXYy6wa4uBiXTHaAavJIAIcm+WbJ16rrt1DdgWBCVhzJTEO3nudJaSJsw=
+  bucket: s3://asmsuechan.com
+  upload-dir: dist
+  acl: public_read
+  on:
+    repo: asmsuechan/asmsuechan.com
