@@ -50,6 +50,15 @@
         <span>[Technologies] Electron, React, travis-ci, GitHub, Slack</span>
       </div>
 
+      <h3>ever2boost</h3>
+      <b>Developer</b>
+      <span>2017/2 - 2017/4</span>
+      <div>
+        <span>I made <a href="https://github.com/BoostIO/ever2boost">a CLI tool</a> to convert from Evernote format notes to Boosnote format notes.</span>
+        <br>
+        <span>[Technologies] Ruby, GitHub</span>
+      </div>
+
       <h3>Genkan</h3>
       <b>Developer</b>
       <span>2018/3 - 2018/3</span>
