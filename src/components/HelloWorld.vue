@@ -99,7 +99,7 @@
         <span>[Technologies] Ruby on Rails, jQuery, Vue.js, RSpec, CircleCI, GitHub, Slack</span>
       </div>
 
-      <h3>Wnatedly</h3>
+      <h3>Wantedly</h3>
       <b>Backend Developer short-term Internship</b>
       <span>2016/12 - 2016/12</span>
       <div>
