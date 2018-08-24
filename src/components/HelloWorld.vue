@@ -39,46 +39,6 @@
     </div>
     <hr>
 
-    <h1>Projects</h1>
-    <div>
-      <h3>Boostnote</h3>
-      <b>Developer</b>
-      <span>2017/1 - 2018/1</span>
-      <div>
-        <span>I was one of the committers of <a href='https://github.com/BoostIO/Boostnote'>Boostnote</a> which is a note-taking application for programmers.</span>
-        <br>
-        <span>[Technologies] Electron, React, travis-ci, GitHub, Slack</span>
-      </div>
-
-      <h3>ever2boost</h3>
-      <b>Developer</b>
-      <span>2017/2 - 2017/4</span>
-      <div>
-        <span>I made <a href="https://github.com/BoostIO/ever2boost">a CLI tool</a> to convert from Evernote format notes to Boosnote format notes.</span>
-        <br>
-        <span>[Technologies] Ruby, GitHub</span>
-      </div>
-
-      <h3>Genkan</h3>
-      <b>Developer</b>
-      <span>2018/3 - 2018/3</span>
-      <div>
-        <span>I made a smart-lock system named <a href="https://github.com/asmsuechan/genkan_device">Genkan</a> that consists of a device and an android app. The device daemon program is written in Golang and uses MQTT for action trigger and OTA update. And the android app is built with react-native.</span>
-        <br>
-        <span>[Technologies] react-native, Golang, MQTT, Servo Motor, TravisCI, Fusion360, 3D Printer</span>
-      </div>
-
-      <h3>jquery_push_notification</h3>
-      <b>Developer</b>
-      <span>2016/7 - 2016/7</span>
-      <div>
-        <span>I made a push notification library for jQuery named <a href="https://github.com/asmeuchan/jquery_push_notification">jquery_push_notification</a>.</span>
-        <br>
-        <span>[Technologies] jQuery, GitHub</span>
-      </div>
-    </div>
-    <hr>
-
     <h1>Experiences</h1>
     <div>
       <h3>SUPINF</h3>
@@ -115,6 +75,46 @@
         <span>I was in charge of Backend development of <a href="http://soccer-ch.tv/">Soccer Channel</a>.</span>
         <br>
         <span>[Technologies] Ruby on Rails, Heroku, jQuery, GitHub, Slack</span>
+      </div>
+    </div>
+    <hr>
+
+    <h1>Projects</h1>
+    <div>
+      <h3>Boostnote</h3>
+      <b>Developer</b>
+      <span>2017/1 - 2018/1</span>
+      <div>
+        <span>I was one of the committers of <a href='https://github.com/BoostIO/Boostnote'>Boostnote</a> which is a note-taking application for programmers.</span>
+        <br>
+        <span>[Technologies] Electron, React, travis-ci, GitHub, Slack</span>
+      </div>
+
+      <h3>ever2boost</h3>
+      <b>Developer</b>
+      <span>2017/2 - 2017/4</span>
+      <div>
+        <span>I made <a href="https://github.com/BoostIO/ever2boost">a CLI tool</a> to convert from Evernote format notes to Boosnote format notes.</span>
+        <br>
+        <span>[Technologies] Ruby, GitHub</span>
+      </div>
+
+      <h3>Genkan</h3>
+      <b>Developer</b>
+      <span>2018/3 - 2018/3</span>
+      <div>
+        <span>I made a smart-lock system named <a href="https://github.com/asmsuechan/genkan_device">Genkan</a> that consists of a device and an android app. The device daemon program is written in Golang and uses MQTT for action trigger and OTA update. And the android app is built with react-native.</span>
+        <br>
+        <span>[Technologies] react-native, Golang, MQTT, Servo Motor, TravisCI, Fusion360, 3D Printer</span>
+      </div>
+
+      <h3>jquery_push_notification</h3>
+      <b>Developer</b>
+      <span>2016/7 - 2016/7</span>
+      <div>
+        <span>I made a push notification library for jQuery named <a href="https://github.com/asmeuchan/jquery_push_notification">jquery_push_notification</a>.</span>
+        <br>
+        <span>[Technologies] jQuery, GitHub</span>
       </div>
     </div>
     <hr>
