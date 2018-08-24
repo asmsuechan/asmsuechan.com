@@ -127,7 +127,6 @@ a {
 }
 .footer {
   margin-top: 50px;
-  height: 50px;
 }
 hr {
   width: 20%;
