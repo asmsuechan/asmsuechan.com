@@ -132,7 +132,7 @@
     <h1>About This Page</h1>
     <div>
       <div>
-        <span>This page runs on CloudFront and S3 and be written in Vue.js. TravisCI deploys to S3 automatically when any commits found on <a href="https://github.com/asmsuechan/asmsuechan.com">GitHub respository</a>.</span>
+        <span>This page runs on CloudFront and S3 and is written in Vue.js. TravisCI deploys to S3 automatically when any commits found on <a href="https://github.com/asmsuechan/asmsuechan.com">GitHub respository</a>.</span>
       </div>
     </div>
     <hr>
