@@ -56,7 +56,16 @@
       <div>
         <span>I made a smart-lock system named <a href="https://github.com/asmsuechan/genkan_device">Genkan</a> that consists of a device and an android app. The device daemon program is written in Golang and uses MQTT for action trigger and OTA update. And the android app is built with react-native.</span>
         <br>
-        <span>[Technologies] react-native, Golang, MQTT, Servo Motor, TravisCI, 3D Printer</span>
+        <span>[Technologies] react-native, Golang, MQTT, Servo Motor, TravisCI, Fusion360, 3D Printer</span>
+      </div>
+
+      <h3>jquery_push_notification</h3>
+      <b>Developer</b>
+      <span>2016/7 - 2016/7</span>
+      <div>
+        <span>I made a push notification library for jQuery named <a href="https://github.com/asmeuchan/jquery_push_notification">jquery_push_notification</a>.</span>
+        <br>
+        <span>[Technologies] jQuery, GitHub</span>
       </div>
     </div>
     <hr>
@@ -79,6 +88,24 @@
         <span>I was in charge of Backend development. The main project I was in charge of was implementation of Messanger-like desktop notification by Serviceworker.</span>
         <br>
         <span>[Technologies] Ruby on Rails, jQuery, Vue.js, RSpec, CircleCI, GitHub, Slack</span>
+      </div>
+
+      <h3>Wnatedly</h3>
+      <b>Backend Developer short-term Internship</b>
+      <span>2016/12 - 2016/12</span>
+      <div>
+        <span>I was in charge of Backend development. The main project I was in charge of was implementation of Messanger-like desktop notification by Serviceworker as same as CrowdWorks.</span>
+        <br>
+        <span>[Technologies] Ruby on Rails, React, RSpec, GitHub</span>
+      </div>
+
+      <h3>SkyBall</h3>
+      <b>Part-time developer</b>
+      <span>2016/4 - 2016/6</span>
+      <div>
+        <span>I was in charge of Backend development of <a href="http://soccer-ch.tv/">Soccer Channel</a>.</span>
+        <br>
+        <span>[Technologies] Ruby on Rails, Heroku, jQuery, GitHub, Slack</span>
       </div>
     </div>
     <hr>
