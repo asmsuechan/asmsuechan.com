@@ -119,6 +119,16 @@
     </div>
     <hr>
 
+    <h1>Hornors</h1>
+    <div>
+      <h3>Alibaba Cloud MVP</h3>
+      <span>2018/9 - 2019/9</span>
+      <div>
+        <span>I was nominated to Alibaba Cloud MVP. Please check <a href="https://mvp.alibabacloud.com/mvp/detail/144">my mvp homepage</a> for more information.</span>
+      </div>
+    </div>
+    <hr>
+
     <h1>Activities</h1>
     <div>
       <h3>Silicon Valley Workshop</h3>
