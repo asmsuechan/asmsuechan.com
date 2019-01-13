@@ -81,6 +81,15 @@
 
     <h1>Projects</h1>
     <div>
+      <h3>Soramy</h3>
+      <b>Owner</b>
+      <span>2018/9 - 2018/9</span>
+      <div>
+        <span>I released a mobile SNS app to post scenery pictures.</span>
+        <br>
+        <span>[Technologies] react-native, Auth0, AlibabaCloud, travis-ci, GitHub, Slack</span>
+      </div>
+
       <h3>Boostnote</h3>
       <b>Developer</b>
       <span>2017/1 - 2018/1</span>
