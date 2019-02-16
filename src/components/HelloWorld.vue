@@ -21,19 +21,19 @@
     <h1>Skills</h1>
     <div>
       <div>
-        <strong>Languages</strong><br>
-        <span>Ruby / JavaScript / Golang / Regex / Japanese / English / Chinense</span>
+        <strong>Language</strong><br>
+        <span>Ruby / JavaScript / Golang / PHP / Regex / Japanese / English / Chinense</span>
       </div>
       <div>
-        <strong>Frameworks</strong><br>
+        <strong>Framework</strong><br>
         <span>Ruby on Rails / jQuery / Vue.js / React / react-native / electron</span>
       </div>
       <div>
-        <strong>Clouds</strong><br>
+        <strong>Cloud</strong><br>
         <span>AWS / Alibaba Cloud / Heroku</span>
       </div>
       <div>
-        <strong>Others</strong><br>
+        <strong>Other</strong><br>
         <span>Serverless / JWT / REST / GraphQL</span>
       </div>
     </div>
@@ -41,11 +41,20 @@
 
     <h1>Experiences</h1>
     <div>
+      <h3>CYDAS</h3>
+      <b>Backend/Frontend Developer</b>
+      <span>2018/12 -</span>
+      <div>
+        <span>I'm in charge of backend in CakePHP.</span>
+        <br>
+        <span>[Technologies] PHP, CakePHP, Vue.js, GitHub, Slack</span>
+      </div>
+
       <h3>SUPINF</h3>
       <b>Backend/Frontend Developer</b>
       <span>2017/5 - 2018/5</span>
       <div>
-        <span>I was in charge of Backend/Frontend of an SAP web application which is a business communication/task management tool.</span>
+        <span>I was in charge of Backend/Frontend of an SPA web application which is a business communication/task management tool.</span>
         <br>
         <span>[Technologies] Ruby on Rails, Vue.js, RSpec, vue-test-utils, swagger, JWT, REST, CircleCI, GitHub, Slack</span>
       </div>
