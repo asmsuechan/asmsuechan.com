@@ -44,7 +44,7 @@
     <div>
       <h3>Buildit</h3>
       <b>Frontend Developer</b>
-      <span>2018/12 -</span>
+      <span>2019/4 -</span>
       <div>
         <span>I'm in charge of frontend in React as a freelancer.</span>
         <br>
@@ -55,7 +55,7 @@
       <b>Backend/Frontend Developer</b>
       <span>2018/12 -</span>
       <div>
-        <span>I'm in charge of backend and frontend.</span>
+        <span>I'm in charge of backend and frontend as a freelancer.</span>
         <br>
         <span>[Technologies] Golang, Vue.js, Clean Archtecture, AWS, GitHub, Slack</span>
       </div>
