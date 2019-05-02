@@ -16,6 +16,7 @@
     <span>Yame-gakuin junior-high school, 2008-2011</span><br>
     <span>Yame-gakuin high school, 2011-2014</span><br>
     <span>Meiji University IMS Network Design, 2014-2019</span><br>
+    <span>Meiji University MIMS Network Design, 2019-</span><br>
     <hr>
 
     <h1>Skills</h1>
@@ -41,13 +42,22 @@
 
     <h1>Experiences</h1>
     <div>
+      <h3>Buildit</h3>
+      <b>Frontend Developer</b>
+      <span>2018/12 -</span>
+      <div>
+        <span>I'm in charge of frontend in React as a freelancer.</span>
+        <br>
+        <span>[Technologies] React, GraphQL, postgraphile, GitHub, Slack</span>
+      </div>
+
       <h3>CYDAS</h3>
       <b>Backend/Frontend Developer</b>
       <span>2018/12 -</span>
       <div>
-        <span>I'm in charge of backend in CakePHP.</span>
+        <span>I'm in charge of backend and frontend.</span>
         <br>
-        <span>[Technologies] PHP, CakePHP, Vue.js, GitHub, Slack</span>
+        <span>[Technologies] Golang, Vue.js, Clean Archtecture, AWS, GitHub, Slack</span>
       </div>
 
       <h3>SUPINF</h3>
