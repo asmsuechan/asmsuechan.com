@@ -1,19 +1,19 @@
 <template>
   <div class="hello">
+    <a href="/ja">日本語</a>
     <h1>asmsuechan</h1>
     <div><p>I like computer technologies.</p></div>
     <div>
       <ul>
         <li><p><a href='https://github.com/asmsuechan'>GitHub</a></p></li>
         <li><p><a href='https://www.linkedin.com/in/ryota-suenaga-658749128'>LinkedIn</a></p></li>
-        <li><p><a href='https://twitter.com/suenaga_ryota'>Twitter</a></p></li>
+        <li><p><a href='https://twitter.com/asmsuechan'>Twitter</a></p></li>
       </ul>
     </div>
 
     <hr>
 
     <h1>Education</h1>
-    <span>Yame-gakuin junior-high school, 2008-2011</span><br>
     <span>Yame-gakuin high school, 2011-2014</span><br>
     <span>Meiji University IMS Network Design, 2014-2019</span><br>
     <span>Meiji University MIMS Network Design, 2019-</span><br>
@@ -100,49 +100,59 @@
 
     <h1>Projects</h1>
     <div>
-      <h3>Soramy</h3>
-      <b>Owner</b>
-      <span>2018/9 - 2018/9</span>
-      <div>
-        <span>I released a mobile SNS app to post scenery pictures.</span>
-        <br>
-        <span>[Technologies] react-native, Auth0, AlibabaCloud, travis-ci, GitHub, Slack</span>
+      <div class="project-section">
+        <h3>Soramy</h3>
+        <b>Owner</b>
+        <span>2018/9 - 2018/9</span>
+        <div>
+          <span>I released a mobile SNS app to post scenery pictures.</span>
+          <br>
+          <span>[Technologies] react-native, Auth0, AlibabaCloud, travis-ci, GitHub, Slack</span>
+        </div>
       </div>
 
-      <h3>Boostnote</h3>
-      <b>Developer</b>
-      <span>2017/1 - 2018/1</span>
-      <div>
-        <span>I was one of the committers of <a href='https://github.com/BoostIO/Boostnote'>Boostnote</a> which is a note-taking application for programmers.</span>
-        <br>
-        <span>[Technologies] Electron, React, travis-ci, GitHub, Slack</span>
+      <div class="project-section">
+        <h3>Boostnote</h3>
+        <b>Developer</b>
+        <span>2017/1 - 2018/1</span>
+        <div>
+          <span>I was one of the committers of <a href='https://github.com/BoostIO/Boostnote'>Boostnote</a> which is a note-taking application for programmers.</span>
+          <br>
+          <span>[Technologies] Electron, React, travis-ci, GitHub, Slack</span>
+        </div>
       </div>
 
-      <h3>ever2boost</h3>
-      <b>Developer</b>
-      <span>2017/2 - 2017/4</span>
-      <div>
-        <span>I made <a href="https://github.com/BoostIO/ever2boost">a CLI tool</a> to convert from Evernote format notes to Boosnote format notes.</span>
-        <br>
-        <span>[Technologies] Ruby, GitHub</span>
+      <div class="project-section">
+        <h3>ever2boost</h3>
+        <b>Developer</b>
+        <span>2017/2 - 2017/4</span>
+        <div>
+          <span>I made <a href="https://github.com/BoostIO/ever2boost">a CLI tool</a> to convert from Evernote format notes to Boosnote format notes.</span>
+          <br>
+          <span>[Technologies] Ruby, GitHub</span>
+        </div>
       </div>
 
-      <h3>Genkan</h3>
-      <b>Developer</b>
-      <span>2018/3 - 2018/3</span>
-      <div>
-        <span>I made a smart-lock system named <a href="https://github.com/asmsuechan/genkan_device">Genkan</a> that consists of a device and an android app. The device daemon program is written in Golang and uses MQTT for action trigger and OTA update. And the android app is built with react-native.</span>
-        <br>
-        <span>[Technologies] react-native, Golang, MQTT, Servo Motor, TravisCI, Fusion360, 3D Printer</span>
+      <div class="project-section">
+        <h3>Genkan</h3>
+        <b>Developer</b>
+        <span>2018/3 - 2018/3</span>
+        <div>
+          <span>I made a smart-lock system named <a href="https://github.com/asmsuechan/genkan_device">Genkan</a> that consists of a device and an android app. The device daemon program is written in Golang and uses MQTT for action trigger and OTA update. And the android app is built with react-native.</span>
+          <br>
+          <span>[Technologies] react-native, Golang, MQTT, Servo Motor, TravisCI, Fusion360, 3D Printer</span>
+        </div>
       </div>
 
-      <h3>jquery_push_notification</h3>
-      <b>Developer</b>
-      <span>2016/7 - 2016/7</span>
-      <div>
-        <span>I made a push notification library for jQuery named <a href="https://github.com/asmeuchan/jquery_push_notification">jquery_push_notification</a>.</span>
-        <br>
-        <span>[Technologies] jQuery, GitHub</span>
+      <div class="project-section">
+        <h3>jquery_push_notification</h3>
+        <b>Developer</b>
+        <span>2016/7 - 2016/7</span>
+        <div>
+          <span>I made a push notification library for jQuery named <a href="https://github.com/asmeuchan/jquery_push_notification">jquery_push_notification</a>.</span>
+          <br>
+          <span>[Technologies] jQuery, GitHub</span>
+        </div>
       </div>
     </div>
     <hr>
@@ -159,6 +169,12 @@
 
     <h1>Activities</h1>
     <div>
+      <h3>DeNA summer internship product development course</h3>
+      <span>2019/8 - 2019/8 (3 days)</span>
+      <div>
+        <span>I participated in a summer internship at DeNA.</span>
+      </div>
+
       <h3>Silicon Valley Workshop</h3>
       <span>2016/3 - 2016/3 (10 days)</span>
       <div>
@@ -215,5 +231,9 @@ hr {
   width: 20%;
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+.project-section {
+  margin-bottom: 50px;
 }
 </style>
