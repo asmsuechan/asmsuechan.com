@@ -184,24 +184,24 @@
 
     <h1>Activities</h1>
     <div>
-      <h3>DeNA summer internship product development course</h3>
-      <span>2019/8 - 2019/8 (3 days)</span>
+      <h3>DeNAサマーインターンプロダクト開発コース</h3>
+      <span>2019/8 - 2019/8 (3 日間)</span>
       <div>
-        <span>I participated in a summer internship at DeNA.</span>
+        <span>DeNAの3日間サマーインターンに参加しました。</span>
       </div>
 
-      <h3>Silicon Valley Workshop</h3>
-      <span>2016/3 - 2016/3 (10 days)</span>
+      <h3>シリコンバレーワークショップ</h3>
+      <span>2016/3 - 2016/3 (10 日間)</span>
       <div>
-        <span>I participated in <a href="http://techlabpaak.com/siliconvalleyworkshop2018">Silicon Valley Workshop</a> held by Recruit.</span>
+        <span>リクルート主催の<a href="http://techlabpaak.com/siliconvalleyworkshop2018">シリコンバレーワークショップ</a>に参加しました。</span>
       </div>
     </div>
     <hr>
 
-    <h1>About This Page</h1>
+    <h1>このページについて</h1>
     <div>
       <div>
-        <span>This page runs on CloudFront and S3 and is written in Vue.js. TravisCI deploys to S3 automatically when any commits found on <a href="https://github.com/asmsuechan/asmsuechan.com">GitHub respository</a>.</span>
+        <span>このページはVue.jsで書かれており、Cloudfront + S3の上で動いています。デプロイはtravis-ciを使っており<a href="https://github.com/asmsuechan/asmsuechan.com">このGitHubリポジトリ</a>にマージされた時に自動でデプロイされます。</span>
       </div>
     </div>
     <hr>
