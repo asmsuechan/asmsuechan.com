@@ -44,7 +44,7 @@
     <div>
       <h3>Buildit</h3>
       <b>Frontend Developer</b>
-      <span>2019/4 -</span>
+      <span>2019/4 - 2019/10</span>
       <div>
         <span>I'm in charge of frontend in React as a freelancer.</span>
         <br>
@@ -102,7 +102,7 @@
     <div>
       <div class="project-section">
         <h3>Soramy</h3>
-        <b>Owner</b>
+        <b>Developer / Owner</b>
         <span>2018/9 - 2018/9</span>
         <div>
           <span>I released a mobile SNS app to post scenery pictures.</span>
@@ -113,7 +113,7 @@
 
       <div class="project-section">
         <h3>Boostnote</h3>
-        <b>Developer</b>
+        <b>Commiter / Maintainer</b>
         <span>2017/1 - 2018/1</span>
         <div>
           <span>I was one of the committers of <a href='https://github.com/BoostIO/Boostnote'>Boostnote</a> which is a note-taking application for programmers.</span>
@@ -160,7 +160,7 @@
     <h1>Hornors</h1>
     <div>
       <h3>Alibaba Cloud MVP</h3>
-      <span>2018/9 - 2019/9</span>
+      <span>2018/9</span>
       <div>
         <span>I was nominated to Alibaba Cloud MVP. Please check <a href="https://mvp.alibabacloud.com/mvp/detail/144">my mvp homepage</a> for more information.</span>
       </div>
