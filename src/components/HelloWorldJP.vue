@@ -207,7 +207,7 @@
     <hr>
 
     <div class="footer">
-      <span>Copyright (c) 2018 asmsuechan All Rights Reserved.</span>
+      <span>Copyright (c) 2021 asmsuechan All Rights Reserved.</span>
     </div>
   </div>
 </template>
