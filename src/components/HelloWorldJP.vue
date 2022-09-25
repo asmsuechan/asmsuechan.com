@@ -12,10 +12,10 @@
 
     <hr>
 
-    <h1>学校歴</h1>
+    <h1>学校</h1>
     <span>2011-2014 八女学院高校</span><br>
     <span>2014-2019 明治大学総合数理学部ネットワークデザイン学科</span><br>
-    <span>2019- 明治大学大学院先端数理科学研究科ネットワークデザイン専攻</span><br>
+    <span>2019-2021 明治大学大学院先端数理科学研究科ネットワークデザイン専攻</span><br>
     <hr>
 
     <h1>スキル</h1>
@@ -41,20 +41,29 @@
 
     <h1>経験</h1>
     <div>
-      <h3>Buildit</h3>
-      <b>フロントエンド開発社</b>
-      <span>2019/4 -</span>
+      <h3>M3</h3>
+      <b>ソフトウェアエンジニア</b>
+      <span>2021/4 -</span>
       <div>
-        <span>フリーランスとしてReactでフロントエンドを担当しています。</span>
+        <span></span>
+        <br>
+        <span>[技術] フロントエンド、バックエンド、クラウドなどWebサービス全般</span>
+      </div>
+
+      <h3>Buildit</h3>
+      <b>フロントエンド開発</b>
+      <span>2019/4 - 2019/10</span>
+      <div>
+        <span>フリーランスとしてReactでフロントエンドを担当していました。</span>
         <br>
         <span>[技術] React, GraphQL, postgraphile, GitHub, Slack</span>
       </div>
 
       <h3>CYDAS</h3>
       <b>バックエンド/フロントエンド開発者</b>
-      <span>2018/12 -</span>
+      <span>2018/12 - 2021/03</span>
       <div>
-        <span>フリーランスとしてバックエンドとフロントエンドの開発をしています。</span>
+        <span>フリーランスとしてバックエンドとフロントエンドの開発をしていました。</span>
         <br>
         <span>[技術] Golang, Vue.js, Clean Archtecture, AWS, GitHub, Slack</span>
       </div>
@@ -207,7 +216,7 @@
     <hr>
 
     <div class="footer">
-      <span>Copyright (c) 2021 asmsuechan All Rights Reserved.</span>
+      <span>Copyright (c) 2022 asmsuechan All Rights Reserved.</span>
     </div>
   </div>
 </template>

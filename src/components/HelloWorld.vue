@@ -16,7 +16,7 @@
     <h1>Education</h1>
     <span>Yame-gakuin high school, 2011-2014</span><br>
     <span>Meiji University IMS Network Design, 2014-2019</span><br>
-    <span>Meiji University MIMS Network Design, 2019-</span><br>
+    <span>Meiji University MIMS Network Design, 2019-2021</span><br>
     <hr>
 
     <h1>Skills</h1>
@@ -42,20 +42,29 @@
 
     <h1>Experiences</h1>
     <div>
+      <h3>M3, Inc.</h3>
+      <b>Software Engineer</b>
+      <span>2021/4 -</span>
+      <div>
+        <span>I'm in charge of everything.</span>
+        <br>
+        <span>[Technologies] all of web development related things</span>
+      </div>
+
       <h3>Buildit</h3>
       <b>Frontend Developer</b>
       <span>2019/4 - 2019/10</span>
       <div>
-        <span>I'm in charge of frontend in React as a freelancer.</span>
+        <span>I was in charge of frontend in React as a freelancer.</span>
         <br>
         <span>[Technologies] React, GraphQL, postgraphile, GitHub, Slack</span>
       </div>
 
       <h3>CYDAS</h3>
       <b>Backend/Frontend Developer</b>
-      <span>2018/12 -</span>
+      <span>2018/12 - 2021/4</span>
       <div>
-        <span>I'm in charge of backend and frontend as a freelancer.</span>
+        <span>I was in charge of backend and frontend as a freelancer.</span>
         <br>
         <span>[Technologies] Golang, Vue.js, Clean Archtecture, AWS, GitHub, Slack</span>
       </div>
@@ -192,7 +201,7 @@
     <hr>
 
     <div class="footer">
-      <span>Copyright (c) 2018 asmsuechan All Rights Reserved.</span>
+      <span>Copyright (c) 2022 asmsuechan All Rights Reserved.</span>
     </div>
   </div>
 </template>
